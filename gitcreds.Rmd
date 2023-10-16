@@ -1,0 +1,16 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(gitcreds)
+gitcreds_set()
+```
+
+```{bash}
+git config --global user.email "sweidansalwa@gmail.com"
+  git config --global user.name "SWEIDAN salwa"
+  
+```
+
